@@ -1,2 +1,9 @@
+void addOne(int);
+void addOnePtr(int *);
 
-fifneisfe
+void main() {
+	int a = 2;
+
+	printf("Inside addOne: %d \n", a);
+
+}
